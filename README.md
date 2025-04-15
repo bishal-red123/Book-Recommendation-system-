@@ -6,6 +6,10 @@ Here’s a **refactored and polished version** of your `README.md` for the Book 
 
 This repository contains a **Book Recommendation System** powered by **Natural Language Processing (NLP)**, **LangChain**, **Hugging Face**, and **Gemini AI**. It delivers **personalized book recommendations** based on semantic similarity, emotional tone, and category filtering.
 
+                                 Heres a Screenshot of recommendation system 
+<img src="https://github.com/bishal-red123/Book-Recommendation-system-/blob/main/Screenshot%202025-04-05%20204056.png" width="500">
+
+
 ## 🚀 Features
 
 - **🔍 Semantic Search**  
