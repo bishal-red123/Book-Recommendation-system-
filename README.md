@@ -1,6 +1,4 @@
-Here’s a **refactored and polished version** of your `README.md` for the Book Recommendation System repository. It maintains all the key information but improves clarity, structure, and grammar for a more professional and readable presentation:
 
----
 
 # 📚 Book Recommendation System
 
